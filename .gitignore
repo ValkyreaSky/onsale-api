@@ -1,0 +1,8 @@
+*.DS_Store
+node_modules/
+.vscode/
+config/keys-dev.js
+config/keys-test.js
+coverage/
+storage/
+*.log
